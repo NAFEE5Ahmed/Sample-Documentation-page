@@ -6,8 +6,8 @@ This is the sample for documentation page, here I use Html tag for an example.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NAFEE5Ahmed/Sample-Documentation-page](https://github.com/NAFEE5Ahmed/Sample-Documentation-page)
+- Live Site URL: [https://nafee5ahmed.github.io/Sample-Documentation-page/](https://nafee5ahmed.github.io/Sample-Documentation-page/)
 
 ## My process
 
