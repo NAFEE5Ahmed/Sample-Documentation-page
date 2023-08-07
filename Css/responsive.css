@@ -1,0 +1,59 @@
+@media (max-width: 800px) {
+    p,li {
+        font-size: 14px;
+    }
+    h2{
+        font-size: 20px;
+    }
+
+    a {
+        margin-top: 20px;
+        font-size: 1rem;
+        margin-left: 40px;
+    }
+
+    #navbar {
+        position: absolute;
+        max-height: 270px;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        z-index: 1;
+        border-bottom: 8px solid rgb(205, 199, 199);
+        border-right: 0;
+    }
+
+    nav h1 {
+        text-align: center;
+        margin-top: 12px;
+    }
+
+    #main-doc {
+        position: relative;
+        margin:0 20px;
+        margin-top: 285px;
+        padding: 0;
+    }
+
+    section h2 {
+        margin-top: 40px;
+    }
+
+    section code pre {
+        margin: 0;
+        overflow: scroll;
+    }
+}
+
+@media (max-width: 555px){
+    p,li{
+        font-size: 9px;
+    }
+    a {
+        font-size: 12px;
+    }
+    h2{
+        font-size: 18px;
+    }
+   
+}

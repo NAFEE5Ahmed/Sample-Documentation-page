@@ -1,0 +1,74 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+}
+
+
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin-top: 40px;
+    font-size: 1.2rem;
+    font-family: cursive;
+}
+
+p,
+li {
+    font-size: 14px;
+}
+
+section {
+    padding: 1rem;
+    margin: 1rem;
+    border-bottom: 2px solid black;
+}
+
+section h2 {
+    margin: 40px 0px 15px 40px;
+    text-decoration: underline;
+}
+
+
+section li {
+    margin-top: 10px;
+}
+
+section code pre {
+    margin: 15px 90px;
+    padding:1rem;
+    box-shadow: 0 0 5px 1.5px rgba(0, 0, 0, 0.15);
+}
+section code pre b{
+    display: block;
+    margin-left: 1.5rem;
+}
+
+a:hover {
+    font-weight: 700;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 282px;
+    height: 100%;
+    border-right: 10px solid rgb(205, 199, 199);
+    padding: 35px 19px;
+    background-color: rgb(240, 233, 233);
+}
+
+#main-doc {
+    position: absolute;
+    margin-left: 270px;
+    padding: 20px 50px;
+}
